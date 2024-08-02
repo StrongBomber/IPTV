@@ -10,3 +10,6 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ODRkYlJWWWRuWWliNGs0emlkNFl
 #EXTM3U
 #EXTINF: -1, Çay TV 720P
 https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=69500026
+#EXTM3U
+#EXTINF: -1, Kıbrıs Genç TV 720P
+https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1201333073.m3u8?hash=5ea3f042ec848e1e488bcbcf77363fd1
