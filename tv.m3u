@@ -7,14 +7,24 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722630912/ei/o
 #EXTM3U
 #EXTINF: -1, DMAX 720P
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTM3U
 #EXTINF: -1, Çay TV 720P
-https://socialsmart.tv/caytv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=69788245
 #EXTM3U
 #EXTINF: -1, Kıbrıs Genç TV 720P
 https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1201333073.m3u8
+#EXTM3U
 #EXTINF: -1, Anadolu Dernek TV
 https://cdn900.canlitv.team/anadolutv.m3u8
 #EXTM3U
+#EXTINF: -1, TJK TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722641171/ei/sxatZsKZBvWAi9oP6rK5-Ak/ip/78.182.155.7/id/kDvc4MSsnyI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYIMKvTWoi6CMIkRqlhfcNsYrbi-0NEvG27cxdLoFWKQEhZcGg_IZmpBHPU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMRghL3eyw3nulmNNZoE76NmfkpFWPvaF4c29rhwjcfwCIG0-vyKMZ1p6x5rodqSWyLCzmiQjVdYoBDoQq-O7a4l9/file/index.m3u8
+#EXTM3U
+#EXTINF: -1, TAY TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722641394/ei/khetZt-sN-u56dsPibXRyQU/ip/78.182.155.7/id/kxZ_cnZzfDQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcPylXA0c-bBKUk3EQbSqq8UcPBuOsIen1ryX2yNqhH2T6_cHf_kGbwxay0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRHiZanl26p7euf5bc_a1ioCgzodIiup8iSaO_fqZmo8CIDW9nn0okMP9z3vdi5uToUCwmSKLIG2yAK3RXQWoGCxO/file/index.m3u8
+#EXTM3U
 #EXTINF: -1, Maymunlar Cehennemi Yeni Krallık
 https://cdn82.sobreatsesuyp.com/content/stream/1x_paper_gal_bes_roll_1.mp4
+
+
 
