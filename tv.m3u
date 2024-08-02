@@ -7,4 +7,6 @@ https://ythls-v3.onrender.com/video/HrIX6_ziOP0.m3u8
 #EXTM3U
 #EXTINF: -1, DMAX 720P
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ODRkYlJWWWRuWWliNGs0emlkNFlZeG93STVnckNTWXd2YXdHUjlsZmRwZz0=&sid=6mfmmxzqnv4r&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
-
+#EXTM3U
+#EXTINF: -1, Çay TV 720P
+https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=69500026
