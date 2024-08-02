@@ -3,7 +3,7 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722630583/ei/V-2sZvyHLpCCi9oPnNuIgA0/ip/78.182.155.7/id/cKRg0a8yArE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWNIoIYaBLgYoqljxYm1OhksfjKKhSTjhc43pneFZ6KaBPGgVwb9L6Jmcnw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKFF_5dj5gIXlp6W8xYEXfzRA5edDleEqWXidE6zcHr0CIQCtVXOND1iG4YYcCDyQBn10cQXeT-CczNSHSmAjRqZ9Kg%3D%3D/file/index.m3u8
 #EXTM3U
 #EXTINF: -1, KOZA TV
-https://ythls-v3.onrender.com/video/HrIX6_ziOP0.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722630912/ei/oO6sZpzzJ7m56dsPq8Se4A8/ip/78.182.155.7/id/HrIX6_ziOP0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAe1GGmxs6yv2MPzNT4k0spTdR4IDxZf9_uGRs-t_O-UfLGd1-eBo8UIHT2w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALGSxFXZryaKPlJdxkB4HfmYXwQU-n_WTBczbHUk76fXAiEAsFcCFSIrFG1G7A1bqeWVShjj5rQB2DQIvr1MbWxsB48%3D/file/index.m3u8
 #EXTM3U
 #EXTINF: -1, DMAX 720P
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=ODRkYlJWWWRuWWliNGs0emlkNFlZeG93STVnckNTWXd2YXdHUjlsZmRwZz0=&sid=6mfmmxzqnv4r&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
@@ -13,3 +13,6 @@ https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=69500026
 #EXTM3U
 #EXTINF: -1, Kıbrıs Genç TV 720P
 https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w1201333073.m3u8?hash=5ea3f042ec848e1e488bcbcf77363fd1
+#EXTM3U
+#EXTINF: -1, Anadolu Dernek TV
+https://cdn900.canlitv.team/anadolutv.m3u8?tkn=KGsFxdSuHJRKF_QdCtgENQ&tms=1722623816&hst=tv.canlitv.team&ip=78.182.155.7
