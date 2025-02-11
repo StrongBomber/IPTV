@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF: -1, TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTM3U
 #EXTINF: -1, TELE 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728767825/ei/8ZIKZ4P_IO7dp-oPg5e1yQE/ip/46.154.65.99/id/z6ptLHwMvuM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303814/txs/51303813%2C51303814%2C51303815%2C51303816/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxadRgqxEaRbv-1Ylu9E3mBvRVFensBmrTS_L38wlt2kLAdOnOmSyoQCu/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgS0glV-NOTU7FPoitceE2N2cJxLfxlZZvs1dV7K_qfUwCIQDn-L1tfIw3yQr3rRembsgXpqtAM7nU6wHCfO1rlIiETg%3D%3D/file/index.m3u8
 #EXTM3U
